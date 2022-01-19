@@ -164,7 +164,7 @@ form{
   border: solid 2px rgba( 255, 255, 255, 0.0);
   }
 
-  @media screen and (min-width: 1366px){
+  @media screen and (min-width: 480px){
         .reset{
           font-size: 20px;
         }
